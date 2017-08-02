@@ -9,6 +9,6 @@ A utility that clears the screen.
 ## Installation
 Here's a one-liner:
 
-`wget -O install-cls.sh https://git.io/v7ug9 && ./install-cls.sh`
+`wget -O install-cls.sh https://git.io/v7ug9 && chmod +x install-cls.sh && ./install-cls.sh`
 ## Contributing
 Open a pull request, if desired.
